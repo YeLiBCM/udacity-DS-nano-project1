@@ -27,10 +27,10 @@
 
 <!-- ABOUT THE PROJECT -->
 ## Prerequisites
+* [python](https://www.python.org/download/releases/3.0/)
 * [Pandas](https://pandas.pydata.org/)
 * [Numpy](https://numpy.org/)
 * [sklearn](https://scikit-learn.org/stable/)
-* [python](https://www.python.org/download/releases/3.0/)
 * [statsmodels](https://www.statsmodels.org/stable/index.html)
 
 
